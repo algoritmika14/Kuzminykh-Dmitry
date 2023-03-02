@@ -1,0 +1,2113 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.5f1 (40eb3a945986) revision 4254522'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit CoreSingleLanguage' Language: 'ru' Physical Memory: 6053 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\game\Unity 2021.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Cybermart/Desktop/дима кузя/sad(
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57714
+Successfully changed project path to: C:/Users/Cybermart/Desktop/дима кузя/sad(
+C:/Users/Cybermart/Desktop/дима кузя/sad(
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 200.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.5f1 (40eb3a945986)
+[Subsystems] Discovering subsystems at path D:/game/Unity 2021.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Cybermart/Desktop/дима кузя/sad(/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX110 (ID=0x174e)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'D:/game/Unity 2021.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'D:/game/Unity 2021.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/game/Unity 2021.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/game/Unity 2021.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.028203 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 155.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.668 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2669ms)
+		BeginReloadAssembly (1311ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1055ms)
+			LoadAssemblies (1308ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (315ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (571ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (156ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (268ms)
+				ProcessInitializeOnLoadMethodAttributes (130ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.056556 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cybermart\Desktop\дима кузя\sad(\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cybermart\Desktop\дима кузя\sad(\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.503 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3507ms)
+		BeginReloadAssembly (305ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (2363ms)
+			LoadAssemblies (485ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (773ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (114ms)
+			SetupLoadedEditorAssemblies (986ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (208ms)
+				ProcessInitializeOnLoadAttributes (631ms)
+				ProcessInitializeOnLoadMethodAttributes (130ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.24 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (111.1 KB). Loaded Objects now: 3824.
+Memory consumption went from 115.9 MB to 115.8 MB.
+Total: 7.833000 ms (FindLiveObjects: 1.838100 ms CreateObjectMapping: 0.792300 ms MarkObjects: 4.990800 ms  DeleteObjects: 0.203700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 874412.043887 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.025543 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017288 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cybermart\Desktop\дима кузя\sad(\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cybermart\Desktop\дима кузя\sad(\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.630 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1631ms)
+		BeginReloadAssembly (217ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1207ms)
+			LoadAssemblies (158ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (421ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (530ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (369ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (78.2 KB). Loaded Objects now: 3827.
+Memory consumption went from 115.8 MB to 115.7 MB.
+Total: 4.450200 ms (FindLiveObjects: 0.316300 ms CreateObjectMapping: 0.199100 ms MarkObjects: 3.823500 ms  DeleteObjects: 0.109900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8.178462 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(e36a411f369168b42ba403bd8870023c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(e36a411f369168b42ba403bd8870023c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edbb2eec9fa3f7118dc0dbfce77730c2') in 0.012341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.990630 seconds.
+  path: Assets/Thirparty
+  artifactKey: Guid(e36a411f369168b42ba403bd8870023c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty using Guid(e36a411f369168b42ba403bd8870023c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f11c9a4beb37f4cc8a332dff604417a') in 0.012883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.014717 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.013469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 166.002862 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '37e73b508516504b61bdafdb102c5285') in 0.175198 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (75.5 KB). Loaded Objects now: 3827.
+Memory consumption went from 48.9 MB to 48.9 MB.
+Total: 3.808500 ms (FindLiveObjects: 0.385400 ms CreateObjectMapping: 0.264300 ms MarkObjects: 3.056600 ms  DeleteObjects: 0.100800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 997.409313 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes/Flat_Ground.fbx
+  artifactKey: Guid(4095df895a6728e4e890de1f4f597865) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes/Flat_Ground.fbx using Guid(4095df895a6728e4e890de1f4f597865) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '39a06bc104892124f316da076c3234d5') in 0.454550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab
+  artifactKey: Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab using Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cbeedcc62b4f4e0bf356e891cfd3cbae') in 0.044607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab
+  artifactKey: Guid(b18669c98c593c945b6154adf121f7ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab using Guid(b18669c98c593c945b6154adf121f7ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4b8a1cd67a79edff2f26946d0a91fde1') in 0.034674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/Bark.mat
+  artifactKey: Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/Bark.mat using Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6d3c9568f33d5ff87e08f1c65ec4dc4c') in 0.332248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials
+  artifactKey: Guid(0fd465afac3075845b7d876e7bce40c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials using Guid(0fd465afac3075845b7d876e7bce40c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e0a2d8d4902c68c30f18c5324b585b63') in 0.023132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab
+  artifactKey: Guid(aa6b62556874da3449a2f5d363d040c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab using Guid(aa6b62556874da3449a2f5d363d040c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '81d31660ecc3ffc0cf28410c86c312b9') in 0.021001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes/Flower_1.fbx
+  artifactKey: Guid(8e22b09183d115b45b12741f524a8ab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes/Flower_1.fbx using Guid(8e22b09183d115b45b12741f524a8ab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8410c72e89b9a8986f541ba4cb10a240') in 0.048281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes/ClusteredRock_2.fbx
+  artifactKey: Guid(f7d17e9da3e0f4249a18b715b5d1150e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes/ClusteredRock_2.fbx using Guid(f7d17e9da3e0f4249a18b715b5d1150e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'df2011f48cf2e09e8d6277773bbc0097') in 0.053163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes
+  artifactKey: Guid(7fec8ee4e7599e542b4a40b08535fedb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes using Guid(7fec8ee4e7599e542b4a40b08535fedb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3f012a6217114f66df9c06f5433ccc63') in 0.019429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat
+  artifactKey: Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat using Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '01ed640db8420ddeb8c82b17b3c428c9') in 0.029747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab
+  artifactKey: Guid(2799beb2f34432a42ab450fda2afef6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab using Guid(2799beb2f34432a42ab450fda2afef6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aa7fe1dbd31c31580b9135d8928ce31c') in 0.027285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Documentation.txt
+  artifactKey: Guid(f09ccbaadb048874189886885e40e251) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Documentation.txt using Guid(f09ccbaadb048874189886885e40e251) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b81a120e67327c5aaec3e9210d08047b') in 0.034069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/White.mat
+  artifactKey: Guid(342c475ac06179249a7cb8facac92609) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/White.mat using Guid(342c475ac06179249a7cb8facac92609) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '93762b955a1cbf0ec63310b809ea7b30') in 0.025169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sample- Low Poly Nature Assets
+  artifactKey: Guid(84c6eb2bd792a1349812891db65a3269) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets using Guid(84c6eb2bd792a1349812891db65a3269) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8d3890579250fb4d57b921cf7db9440e') in 0.023358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab
+  artifactKey: Guid(70e5abaabcd74be419c08a61b8aff717) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab using Guid(70e5abaabcd74be419c08a61b8aff717) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b7053bdbfc0b34c5327f19e56d571941') in 0.056854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/_MaterialIndex.txt
+  artifactKey: Guid(378e3525f834d0042a68b77894b16bd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/_MaterialIndex.txt using Guid(378e3525f834d0042a68b77894b16bd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '247922c1109f7768a92068548f90e10c') in 0.020494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes/Grass_1.fbx
+  artifactKey: Guid(24ad6abd340c2554c8243734e4f04100) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes/Grass_1.fbx using Guid(24ad6abd340c2554c8243734e4f04100) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5eb511ba60df47d65023e0d7a283e3bc') in 0.049432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/Dirt.mat
+  artifactKey: Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/Dirt.mat using Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '273364764a193861face62147f4ef9b8') in 0.025938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes/BirchTree_3.fbx
+  artifactKey: Guid(aa6c98d19e218414f94fe9183e3f9c0a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes/BirchTree_3.fbx using Guid(aa6c98d19e218414f94fe9183e3f9c0a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '278188903e14db32a58768ef6eb9ac1c') in 0.048563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab
+  artifactKey: Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab using Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b72e0c267f35990868c1c1fad88a55c9') in 0.040208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs
+  artifactKey: Guid(4f81942c97d2e8c42bc8a9fa326b726e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs using Guid(4f81942c97d2e8c42bc8a9fa326b726e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2bcd568035775a004d544bf2d5e2f3a1') in 0.025515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes/Bush_2.fbx
+  artifactKey: Guid(43fbea8be83c3e5429b2f1aa27a01b56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes/Bush_2.fbx using Guid(43fbea8be83c3e5429b2f1aa27a01b56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5c886441b2a2010052bd08080a616df0') in 0.054745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/Rock.mat
+  artifactKey: Guid(9b6efa035ff72054f8d3b892947352ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/Rock.mat using Guid(9b6efa035ff72054f8d3b892947352ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7d3afba5b933293f74ab86fcbabb669a') in 0.025846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/Red.mat
+  artifactKey: Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/Red.mat using Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bf1d305b478458d982b654605d2890e4') in 0.026390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Meshes/Pine_3.fbx
+  artifactKey: Guid(0043ff6fbd2f3e34291d76b4b642b24d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Meshes/Pine_3.fbx using Guid(0043ff6fbd2f3e34291d76b4b642b24d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '311688ca721fd6032f08af49e73c25f7') in 0.048196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/Leaves1.mat
+  artifactKey: Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/Leaves1.mat using Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '211cf7c5bf7e4d38ba73cbb309ce78e7') in 0.027231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab
+  artifactKey: Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab using Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ba94a0d5fba92fee241d8ae2457291cb') in 0.033629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Sample- Low Poly Nature Assets/Materials/Black.mat
+  artifactKey: Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Sample- Low Poly Nature Assets/Materials/Black.mat using Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '87e3a42a3e49c7fcd7a3c530489799df') in 0.031564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.575326 seconds.
+  path: Assets/Sample- Low Poly Nature Assets
+  artifactKey: Guid(84c6eb2bd792a1349812891db65a3269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample- Low Poly Nature Assets using Guid(84c6eb2bd792a1349812891db65a3269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17ebd2ce3368e458f0f04a8890ab7e8') in 0.013303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.324603 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes
+  artifactKey: Guid(7fec8ee4e7599e542b4a40b08535fedb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes using Guid(7fec8ee4e7599e542b4a40b08535fedb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '70f02f15d98877d418a591790cd35342') in 0.017052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab
+  artifactKey: Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab using Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fed0a2742b8fadb2cb1f4e0c2bd40fc1') in 0.034422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Bark.mat
+  artifactKey: Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Bark.mat using Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8f666a2c693f65c35a81a59e1fb4f86b') in 0.025085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials
+  artifactKey: Guid(0fd465afac3075845b7d876e7bce40c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials using Guid(0fd465afac3075845b7d876e7bce40c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '67ca77bbc0fd2bf0808d277cccdc599d') in 0.020398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flat_Ground.fbx
+  artifactKey: Guid(4095df895a6728e4e890de1f4f597865) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flat_Ground.fbx using Guid(4095df895a6728e4e890de1f4f597865) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2786f85a299894a9fb41fe26e5dfad80') in 0.043014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab
+  artifactKey: Guid(aa6b62556874da3449a2f5d363d040c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab using Guid(aa6b62556874da3449a2f5d363d040c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ef376fe620531b2c1835fe0ae09f3879') in 0.025878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flower_1.fbx
+  artifactKey: Guid(8e22b09183d115b45b12741f524a8ab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flower_1.fbx using Guid(8e22b09183d115b45b12741f524a8ab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'addcf246b9d457073736d56beb69776c') in 0.057537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/ClusteredRock_2.fbx
+  artifactKey: Guid(f7d17e9da3e0f4249a18b715b5d1150e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/ClusteredRock_2.fbx using Guid(f7d17e9da3e0f4249a18b715b5d1150e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9e432e09ffb62e3c338582dc86a38899') in 0.049621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat
+  artifactKey: Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat using Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd7440ec556570086d04529b8373b93c5') in 0.020882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab
+  artifactKey: Guid(2799beb2f34432a42ab450fda2afef6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab using Guid(2799beb2f34432a42ab450fda2afef6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f1e335931e5622da42fbb54fd404ff4e') in 0.025524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab
+  artifactKey: Guid(b18669c98c593c945b6154adf121f7ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab using Guid(b18669c98c593c945b6154adf121f7ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2c192dc4e821bce413ea6b10a1e9422a') in 0.031967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Documentation.txt
+  artifactKey: Guid(f09ccbaadb048874189886885e40e251) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Documentation.txt using Guid(f09ccbaadb048874189886885e40e251) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e621763383cd47c8146fa600508a30ac') in 0.028175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/White.mat
+  artifactKey: Guid(342c475ac06179249a7cb8facac92609) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/White.mat using Guid(342c475ac06179249a7cb8facac92609) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '935adfa68f659879968da999c2247f0f') in 0.036513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets
+  artifactKey: Guid(84c6eb2bd792a1349812891db65a3269) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets using Guid(84c6eb2bd792a1349812891db65a3269) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7e1988eb52078a532372ee9e4b69ef89') in 0.026517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab
+  artifactKey: Guid(70e5abaabcd74be419c08a61b8aff717) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab using Guid(70e5abaabcd74be419c08a61b8aff717) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2141b61df577fb7a16f08d99df300085') in 0.039855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/_MaterialIndex.txt
+  artifactKey: Guid(378e3525f834d0042a68b77894b16bd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/_MaterialIndex.txt using Guid(378e3525f834d0042a68b77894b16bd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '77a51041d454a7f94929f5831c69da31') in 0.032354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Grass_1.fbx
+  artifactKey: Guid(24ad6abd340c2554c8243734e4f04100) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Grass_1.fbx using Guid(24ad6abd340c2554c8243734e4f04100) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a680d38117efaca0e4964a13948cdeb3') in 0.118589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Dirt.mat
+  artifactKey: Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Dirt.mat using Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3bc61450042d43f50edcbf014ea839cf') in 0.034794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs
+  artifactKey: Guid(4f81942c97d2e8c42bc8a9fa326b726e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs using Guid(4f81942c97d2e8c42bc8a9fa326b726e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2583474efd37c63cf706f867b6fefde7') in 0.026092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/BirchTree_3.fbx
+  artifactKey: Guid(aa6c98d19e218414f94fe9183e3f9c0a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/BirchTree_3.fbx using Guid(aa6c98d19e218414f94fe9183e3f9c0a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4816aef47a525fe141608044bd3ae595') in 0.053948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab
+  artifactKey: Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab using Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '260de0844f1d6bc212127ec37ef9ff1a') in 0.039232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Rock.mat
+  artifactKey: Guid(9b6efa035ff72054f8d3b892947352ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Rock.mat using Guid(9b6efa035ff72054f8d3b892947352ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b7d45e0562c83e8fd4118dd844ec8538') in 0.024019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Bush_2.fbx
+  artifactKey: Guid(43fbea8be83c3e5429b2f1aa27a01b56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Bush_2.fbx using Guid(43fbea8be83c3e5429b2f1aa27a01b56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '74c87ad8beb76fedce59c355ef47ee35') in 0.046833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab
+  artifactKey: Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab using Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '134e0ad978375fd728621a60cda10b69') in 0.030298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Red.mat
+  artifactKey: Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Red.mat using Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6df5babc9356515686a23acf37da7758') in 0.022986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Leaves1.mat
+  artifactKey: Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Leaves1.mat using Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '317d2773e35088a713aada8e2a53e965') in 0.022340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Pine_3.fbx
+  artifactKey: Guid(0043ff6fbd2f3e34291d76b4b642b24d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Pine_3.fbx using Guid(0043ff6fbd2f3e34291d76b4b642b24d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c52c5f7456420575e8b738ac3a77a080') in 0.044013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Black.mat
+  artifactKey: Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Black.mat using Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bcaf5b151ef3d75f35394b2fa0583c1b') in 0.022941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.791410 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ccaa32d8e5c1de03c07a5412c8c3c') in 0.010142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.115043 seconds.
+  path: Packages/com.unity.testtools.codecoverage/package.json
+  artifactKey: Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.testtools.codecoverage/package.json using Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2dd2fcfb070eff30dd06220f902a2a') in 0.037898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.437235 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs
+  artifactKey: Guid(4f81942c97d2e8c42bc8a9fa326b726e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs using Guid(4f81942c97d2e8c42bc8a9fa326b726e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3a32061bb0d4ad5c650f1bdb5ba620') in 0.013690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033487 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab
+  artifactKey: Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab using Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43755e586101b3e3a5a506b3bcdbb7b9') in 0.986527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab
+  artifactKey: Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab using Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52dccb1ff176c5d91db66cac51d321a0') in 0.048787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab
+  artifactKey: Guid(70e5abaabcd74be419c08a61b8aff717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab using Guid(70e5abaabcd74be419c08a61b8aff717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4c8379a981396d4d49ac236f6aefc3') in 0.032476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab
+  artifactKey: Guid(aa6b62556874da3449a2f5d363d040c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab using Guid(aa6b62556874da3449a2f5d363d040c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc3c5dd496daca6e1eb670344d35d59') in 0.035985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab
+  artifactKey: Guid(b18669c98c593c945b6154adf121f7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab using Guid(b18669c98c593c945b6154adf121f7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8da1fd239e9c7cfb452ac2603a2b36c') in 0.038562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab
+  artifactKey: Guid(2799beb2f34432a42ab450fda2afef6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab using Guid(2799beb2f34432a42ab450fda2afef6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3821424226705a8468712e2b043c76f') in 0.038148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab
+  artifactKey: Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab using Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6a0e65a6a365ec321bc5d2424dc573') in 0.036470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.591345 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab
+  artifactKey: Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab using Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d98d2e17786c3f5efe5a5a3097f919d') in 0.036068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab
+  artifactKey: Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab using Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02adfb688ae0c9e78df36bd616d6115') in 0.013468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab
+  artifactKey: Guid(70e5abaabcd74be419c08a61b8aff717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab using Guid(70e5abaabcd74be419c08a61b8aff717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03870defd326a7ed0da6f3659ad30fb4') in 0.015252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab
+  artifactKey: Guid(aa6b62556874da3449a2f5d363d040c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab using Guid(aa6b62556874da3449a2f5d363d040c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378d0991ee54455410a0de0ded6b6a25') in 0.013510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab
+  artifactKey: Guid(b18669c98c593c945b6154adf121f7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab using Guid(b18669c98c593c945b6154adf121f7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58a09e6a663ea2a4f26f2d8dc2a8d1c') in 0.028908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab
+  artifactKey: Guid(2799beb2f34432a42ab450fda2afef6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab using Guid(2799beb2f34432a42ab450fda2afef6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f01b875682e581535644e5601c9c8e') in 0.022297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab
+  artifactKey: Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab using Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5a1ab5e866ca6c42bc070c87288f48') in 0.015323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.789917 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab
+  artifactKey: Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/BirchTree_3_Fall.prefab using Guid(ec271694f23e63e4da0cd99cfe32b104) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fcf7916d1d3139de59f7f34d5f235fb5') in 0.020634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab
+  artifactKey: Guid(b18669c98c593c945b6154adf121f7ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Pine_3.prefab using Guid(b18669c98c593c945b6154adf121f7ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '377de221c74e9176eb64493dc11c6cb6') in 0.028230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Bark.mat
+  artifactKey: Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Bark.mat using Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd79747c6e38329de73734b4ad794b7a2') in 0.025755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab
+  artifactKey: Guid(aa6b62556874da3449a2f5d363d040c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_1.prefab using Guid(aa6b62556874da3449a2f5d363d040c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '80143831bcec8d52c1305549a241eb38') in 0.028086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat
+  artifactKey: Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat using Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2000866eb8c977b34f35737b73dd8aaa') in 0.024558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab
+  artifactKey: Guid(2799beb2f34432a42ab450fda2afef6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Flower_1.prefab using Guid(2799beb2f34432a42ab450fda2afef6a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1d9425af0306a103f558115ac3c47d57') in 0.028846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/White.mat
+  artifactKey: Guid(342c475ac06179249a7cb8facac92609) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/White.mat using Guid(342c475ac06179249a7cb8facac92609) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6481f453c06d833979cf1453a5f7f34') in 0.024881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab
+  artifactKey: Guid(70e5abaabcd74be419c08a61b8aff717) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Grass_Flat_Ground.prefab using Guid(70e5abaabcd74be419c08a61b8aff717) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aefcc892c17ef130d2f4212d7fa6037a') in 0.030895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Dirt.mat
+  artifactKey: Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Dirt.mat using Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'babcde904a9ec7b6e400970ea7739ce2') in 0.027051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab
+  artifactKey: Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/Bush_2.prefab using Guid(c7acba2f8a6f0e04a93623f01b987ae7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ec7700b1a657a61bb58294328c634e4e') in 0.031261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Rock.mat
+  artifactKey: Guid(9b6efa035ff72054f8d3b892947352ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Rock.mat using Guid(9b6efa035ff72054f8d3b892947352ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '02b8db9df6b4f2587a1ec05ae54b36fe') in 0.027029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Red.mat
+  artifactKey: Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Red.mat using Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c0bd0f7548131e165a4e0a1edde5df6f') in 0.024407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab
+  artifactKey: Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Prefabs/ClusteredRock_2.prefab using Guid(815e4cd23e4eb2b42a8a426a7d8c8708) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6610281bf8b736369947e10d100a5ec0') in 0.033064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Leaves1.mat
+  artifactKey: Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Leaves1.mat using Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '268cea3385ea7615b3e5296131db5582') in 0.040248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Black.mat
+  artifactKey: Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Black.mat using Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '168a8ef4b4c1df40521509df10bb2156') in 0.027865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.592769 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Flask_Mana.mat
+  artifactKey: Guid(cd77ea8e05fb8e34c8487a2b5ef72f81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Flask_Mana.mat using Guid(cd77ea8e05fb8e34c8487a2b5ef72f81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0fba52c5beed2bf41aba929a1a5e7afc') in 0.029756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Sword.prefab
+  artifactKey: Guid(b116d663e63776b498d940fc62356957) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Sword.prefab using Guid(b116d663e63776b498d940fc62356957) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8cddf1b8a9c5991fc9d0845f93d349bc') in 0.038143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_13.prefab
+  artifactKey: Guid(36d90c33e9b776448a1f2dfc975ffda5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_13.prefab using Guid(36d90c33e9b776448a1f2dfc975ffda5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0aaccd80413375788d4e7c86981b8e0c') in 0.039375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Ground.prefab
+  artifactKey: Guid(0ed7946982320464596b995b61ecdf34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Ground.prefab using Guid(0ed7946982320464596b995b61ecdf34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd9ee6d10afae7f002c912b1b8cef2a1e') in 0.036953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_17.prefab
+  artifactKey: Guid(56c471fa60a91ff47aad2dc54e7d196a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_17.prefab using Guid(56c471fa60a91ff47aad2dc54e7d196a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd0ff45ab7585ea2cc8139196a77a9ffe') in 0.031409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Shield.prefab
+  artifactKey: Guid(75940785cec02894881375a52dcba655) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Shield.prefab using Guid(75940785cec02894881375a52dcba655) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '10f72df50a9638fdf372624c0035fb26') in 0.033277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Tree_Fir_Foliage.mat
+  artifactKey: Guid(aa2d461b65885d241821c6e73a2999ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Tree_Fir_Foliage.mat using Guid(aa2d461b65885d241821c6e73a2999ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'af37dcb6c1f18506981df86d60945851') in 0.029129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_4.prefab
+  artifactKey: Guid(a9be5f8d69d77f346a425712248b814c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_4.prefab using Guid(a9be5f8d69d77f346a425712248b814c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '020fb63706cc0cf39c44df9105963084') in 0.030980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Wood_2.mat
+  artifactKey: Guid(de5247fed8db2f34d80b9899592e522c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Wood_2.mat using Guid(de5247fed8db2f34d80b9899592e522c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6382ca0f06563746699bed8f8a2b1f63') in 0.030148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Stones_and_buried_treasure/MainScenseSettings.lighting
+  artifactKey: Guid(bf57216258c4d4845bf9158e6dc424a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/MainScenseSettings.lighting using Guid(bf57216258c4d4845bf9158e6dc424a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) LightingSettings: switching bake backend from 1 to 0.
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '46949ea14d1b7d104a47ac9e2b84ff00') in 0.052987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Elixir_Of_Health.prefab
+  artifactKey: Guid(fb1342e2566442642a1b0da9756b066e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Elixir_Of_Health.prefab using Guid(fb1342e2566442642a1b0da9756b066e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4035066254a8219a041b88cb69bc0215') in 0.029008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_11.prefab
+  artifactKey: Guid(8b49696b2432a634e9f45dd8ad4aab80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_11.prefab using Guid(8b49696b2432a634e9f45dd8ad4aab80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1f85ce54870b796fd86b22658b0b925a') in 0.037178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Crown.prefab
+  artifactKey: Guid(60843c6f0abfe104f8c631aabae51301) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Crown.prefab using Guid(60843c6f0abfe104f8c631aabae51301) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9345ed12c78bc548702ce74ef7adf87e') in 0.048398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Сrystal_3.prefab
+  artifactKey: Guid(b4572596b6a569946aedef79f222fa22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Сrystal_3.prefab using Guid(b4572596b6a569946aedef79f222fa22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fae3234dcbecbe9a8260efd0b3e52628') in 0.042608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_14.prefab
+  artifactKey: Guid(0e4460f2e6af8534883922004bca99b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_14.prefab using Guid(0e4460f2e6af8534883922004bca99b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4032dc6acf9498871fa27795ac1b1393') in 0.046897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Barrel_Closed.prefab
+  artifactKey: Guid(4d272402a09cecd42a5f9f5d73589fc7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Barrel_Closed.prefab using Guid(4d272402a09cecd42a5f9f5d73589fc7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e1866d88b1745002900d6322923dd79f') in 0.061516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_9.prefab
+  artifactKey: Guid(74bece5c87deaa946b1d5c129a3123af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_9.prefab using Guid(74bece5c87deaa946b1d5c129a3123af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '31ff44d8f2b499f00aba657e9cdd53cb') in 0.065497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Foliage.mat
+  artifactKey: Guid(c0a9725ef6601304a82891ef2cadc876) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Foliage.mat using Guid(c0a9725ef6601304a82891ef2cadc876) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c18137600492c7b9e4990b57ff5f3290') in 0.028284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Wood_3.mat
+  artifactKey: Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Wood_3.mat using Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aafa58deaa52c1689997ac3a734b448b') in 0.030968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Elixir_Of_Mana.prefab
+  artifactKey: Guid(32ef5384bf03a5c459962867b76db0cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Elixir_Of_Mana.prefab using Guid(32ef5384bf03a5c459962867b76db0cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '764c417a556e44b5c93956e095f6c4ed') in 0.050411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Сrystal_1.prefab
+  artifactKey: Guid(2485624f732b618439e23cb8081d41dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Сrystal_1.prefab using Guid(2485624f732b618439e23cb8081d41dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e831e7d874d7a174c021cc22d804a567') in 0.046538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_1.prefab
+  artifactKey: Guid(83561575068bf2042a4f289885d89d2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_1.prefab using Guid(83561575068bf2042a4f289885d89d2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a45b0b94f8621eb619d75112af77a0d5') in 0.049252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_7.prefab
+  artifactKey: Guid(41746623d92e6994586a79f8ebd3681a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_7.prefab using Guid(41746623d92e6994586a79f8ebd3681a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e56a840ba017bfb41de38a674506fb9b') in 0.058506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Stones_and_buried_treasure/MainScense.unity
+  artifactKey: Guid(dc35b59e37ef8fc47b03f6434640ec99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/MainScense.unity using Guid(dc35b59e37ef8fc47b03f6434640ec99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd291991ec1ec20109ff684d5c5ab77ee') in 0.040204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_12.prefab
+  artifactKey: Guid(e745df1298631f24789a1313146ae9a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_12.prefab using Guid(e745df1298631f24789a1313146ae9a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '33d04c10e583463f6805e92264420dea') in 0.038517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Emerald.mat
+  artifactKey: Guid(9d8103c4f549e304ebbc88c0779b2349) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Emerald.mat using Guid(9d8103c4f549e304ebbc88c0779b2349) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0f98c8faba3f8b994c4a3736c4bb5c66') in 0.027429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_1.prefab
+  artifactKey: Guid(9db57954271991a4f84773d7d31e291b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_1.prefab using Guid(9db57954271991a4f84773d7d31e291b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c22055908e45b0950eb4ca1d7e769dfc') in 0.032330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Сoin.prefab
+  artifactKey: Guid(e3df14a44368b9c47a6175eebd31535d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Сoin.prefab using Guid(e3df14a44368b9c47a6175eebd31535d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '56d6d67bcffffd4ee19a64ecba1b4c7c') in 0.040139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_18.prefab
+  artifactKey: Guid(0308f8ff86e69154a8064da3ef456125) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_18.prefab using Guid(0308f8ff86e69154a8064da3ef456125) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b1d0ec4655f164a2af416c41f97dd625') in 0.046992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Ruby.mat
+  artifactKey: Guid(9e821f0f773f0114e9df5ba24a0abad5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Ruby.mat using Guid(9e821f0f773f0114e9df5ba24a0abad5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8e82052e2fecdd36d22ba7d0d4ee4288') in 0.035086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Stones_and_buried_treasure
+  artifactKey: Guid(563bf3e553511ce4586761d21a516b9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure using Guid(563bf3e553511ce4586761d21a516b9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f845569d4e767fe31603fdb95c920804') in 0.024140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Bone.mat
+  artifactKey: Guid(1ea9f06a678176f4e8a48fed8bdefde5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Bone.mat using Guid(1ea9f06a678176f4e8a48fed8bdefde5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '78cff702d2d3f9d5c27910000bd82dd5') in 0.029299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Сrystal_4.prefab
+  artifactKey: Guid(e6911a57b4d95ba4f86e3e41e5a9fcac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Сrystal_4.prefab using Guid(e6911a57b4d95ba4f86e3e41e5a9fcac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e34cab2d8b50d44a055894bd48038c08') in 0.034650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_15.prefab
+  artifactKey: Guid(7e9e129d389d7b840aff77f25f41451c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_15.prefab using Guid(7e9e129d389d7b840aff77f25f41451c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'df0dd11328fb87a0e9b528b09320185a') in 0.036890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_8.prefab
+  artifactKey: Guid(06feddaacfebcc845a71837d24b4ed20) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_8.prefab using Guid(06feddaacfebcc845a71837d24b4ed20) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1d4068f03f89ff1dc34b9255b24b9b7e') in 0.041321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials
+  artifactKey: Guid(94213bdc6373e9e4e95ee80cad976ffe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials using Guid(94213bdc6373e9e4e95ee80cad976ffe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '45f1381bf74ab5614930e807b8f3c413') in 0.021045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs
+  artifactKey: Guid(db722b1ea2bfc084ea2c7a634b131557) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs using Guid(db722b1ea2bfc084ea2c7a634b131557) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c4a831536f26040666aa4295ec0f63c7') in 0.022158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Сrystal_2.prefab
+  artifactKey: Guid(54c295819cbc940479f443cf807656ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Сrystal_2.prefab using Guid(54c295819cbc940479f443cf807656ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3738de43ef761d4382fe1da3d76388ae') in 0.035048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_5.prefab
+  artifactKey: Guid(e06ba814345b0ec43aaaf6a5dac7e762) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_5.prefab using Guid(e06ba814345b0ec43aaaf6a5dac7e762) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '55a4a29343a93703da16f1022ad98208') in 0.041154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Stell.mat
+  artifactKey: Guid(581bcb63dc607ec4ebc2a6d2096dfc92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Stell.mat using Guid(581bcb63dc607ec4ebc2a6d2096dfc92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e7ab92ec966487d9737c732d3f8cc7aa') in 0.033155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_2.prefab
+  artifactKey: Guid(6e1def531c4baaf4387bc4283f7ef134) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_2.prefab using Guid(6e1def531c4baaf4387bc4283f7ef134) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9c77e79d534b294f7e8b4b3482232709') in 0.040887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Flask_Health.mat
+  artifactKey: Guid(d49ef640e39bfc34aba2155cb8a8f99c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Flask_Health.mat using Guid(d49ef640e39bfc34aba2155cb8a8f99c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5181b8db89092b11e020ee2726dadef3') in 0.031568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Barrel_Open.prefab
+  artifactKey: Guid(2d561752e6200834db6fb19d8d3220b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Barrel_Open.prefab using Guid(2d561752e6200834db6fb19d8d3220b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7f4d0f3aa50dca084f7f66e9f76f0298') in 0.036664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Tree_Fir.prefab
+  artifactKey: Guid(d64bcd605f1bc084588c5a35592f7fc3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Tree_Fir.prefab using Guid(d64bcd605f1bc084588c5a35592f7fc3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5b59108130e8df087bb296c20795cd82') in 0.040825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Chest_Open_Cap.prefab
+  artifactKey: Guid(7e7ac078c68820d4e8f9deec111d9d53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Chest_Open_Cap.prefab using Guid(7e7ac078c68820d4e8f9deec111d9d53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c9f97fe538cf17e53d4604377fe9b5de') in 0.032108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Stone.mat
+  artifactKey: Guid(5488c218fc681b748a54e10cdf1b2f8c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Stone.mat using Guid(5488c218fc681b748a54e10cdf1b2f8c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6a71989c87df012fbb9ad00bdda716cd') in 0.034348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Arrow.prefab
+  artifactKey: Guid(edf92e08fbab517449067fd9cddc8a66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Arrow.prefab using Guid(edf92e08fbab517449067fd9cddc8a66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '83921c5c0f154237b396bdce6912cf02') in 0.041565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Chest_Closed.prefab
+  artifactKey: Guid(64284ca1518bc524492fa4fc9e82ce94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Chest_Closed.prefab using Guid(64284ca1518bc524492fa4fc9e82ce94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '16d1d7b9bf47078c684fcb54190a1dac') in 0.040605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Stones_and_buried_treasure/3d_Models
+  artifactKey: Guid(0c13319aebefb894680a11a48021b15d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/3d_Models using Guid(0c13319aebefb894680a11a48021b15d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3643731ee2182945b597c69fc7eca893') in 0.027285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000908 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Skull.prefab
+  artifactKey: Guid(331828e5d69fcf148a4fa6dadc2c2f41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Skull.prefab using Guid(331828e5d69fcf148a4fa6dadc2c2f41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2d749edd6cc4113ad5bfdef6490833b7') in 0.034730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Emerald.prefab
+  artifactKey: Guid(2c9868bb7821e484083e774038674eb1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Emerald.prefab using Guid(2c9868bb7821e484083e774038674eb1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c57dbb37b330c985f5d94707e32724c3') in 0.035972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Chest_Open.prefab
+  artifactKey: Guid(33bf31b2b982a14499d546025065ad22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Chest_Open.prefab using Guid(33bf31b2b982a14499d546025065ad22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4528cfcdb5f2df52a6db68ddb76c4724') in 0.034420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_16.prefab
+  artifactKey: Guid(e992049e0e5f23b48ade8c906dc252c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_16.prefab using Guid(e992049e0e5f23b48ade8c906dc252c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '39fd9ffb289fe8389b3fa15714551d1f') in 0.030889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Wood_1.mat
+  artifactKey: Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Wood_1.mat using Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a08c2a3bd35fb908a08728df21832b91') in 0.033225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX
+  artifactKey: Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX using Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6e713b3b206df33d3f0b43eaad043f6b') in 0.202195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Bullion.prefab
+  artifactKey: Guid(71af532755e61c7439f07e35d89278f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Bullion.prefab using Guid(71af532755e61c7439f07e35d89278f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd9c1079a49b3812d4af10ecb1043a84f') in 0.036447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Pick.prefab
+  artifactKey: Guid(6191d242d97347540a6f4263049bdfed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Pick.prefab using Guid(6191d242d97347540a6f4263049bdfed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f3c74701fb8ccbe824e0de26237960bd') in 0.032546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Bone.prefab
+  artifactKey: Guid(11be0398bf08b574c839d66a800c6174) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Bone.prefab using Guid(11be0398bf08b574c839d66a800c6174) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8cb1917dbb8d00434f8c45916bdbc362') in 0.028441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_10.prefab
+  artifactKey: Guid(df00b95dd377f8f4fa6a75377aa47a42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_10.prefab using Guid(df00b95dd377f8f4fa6a75377aa47a42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7b89dde8b5107240d1dab353c271d8af') in 0.040633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Tree_Fir_Wood.mat
+  artifactKey: Guid(ca1bc2fdd0017fc46ba22b6198dd83ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Tree_Fir_Wood.mat using Guid(ca1bc2fdd0017fc46ba22b6198dd83ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4833d0524018a1d02f5af03db8d3aa1a') in 0.032979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Box.prefab
+  artifactKey: Guid(c3ac01a483bb3fd4fac43624af451255) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Box.prefab using Guid(c3ac01a483bb3fd4fac43624af451255) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a8db7367a3a8a3cabdc5422bfc446a1b') in 0.041829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Ruby.prefab
+  artifactKey: Guid(20df3b3bdddb94f47b7d2e59e491ff51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Ruby.prefab using Guid(20df3b3bdddb94f47b7d2e59e491ff51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f8e4199d7d06a12cc3c9109e5b2a907d') in 0.031854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Key.prefab
+  artifactKey: Guid(5f19be0067756ea45bd6b780e9794b80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Key.prefab using Guid(5f19be0067756ea45bd6b780e9794b80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6990b756be90bd96760b037af02f3744') in 0.037622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Gold.mat
+  artifactKey: Guid(08383afdf5e4c7f4aa3b1158056238b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Gold.mat using Guid(08383afdf5e4c7f4aa3b1158056238b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '49b8dbe7755779c71b2039d05111a483') in 0.036098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_2.prefab
+  artifactKey: Guid(97291d2df068db2439009ca97285ddff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_2.prefab using Guid(97291d2df068db2439009ca97285ddff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3cd2b97a8daacd2b613bc9fec9a52684') in 0.044933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_3.prefab
+  artifactKey: Guid(fca867e93da64f84c8cc00bde5b816f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_3.prefab using Guid(fca867e93da64f84c8cc00bde5b816f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6a973181a0141e700885a158c2dd190e') in 0.036634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Stones_and_buried_treasure/Prefabs/Stone_6.prefab
+  artifactKey: Guid(dbaf68191bab69546985647875561946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Prefabs/Stone_6.prefab using Guid(dbaf68191bab69546985647875561946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9681ac77d478e07b631d9ce4f70e0315') in 0.034723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Stones_and_buried_treasure/Materials/Ground.mat
+  artifactKey: Guid(aab3062433dfe3244b122685a77f1c69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Stones_and_buried_treasure/Materials/Ground.mat using Guid(aab3062433dfe3244b122685a77f1c69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '323903f2164a531492b7fd96a4a9bfb1') in 0.029438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.177677 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/3d_Models
+  artifactKey: Guid(0c13319aebefb894680a11a48021b15d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/3d_Models using Guid(0c13319aebefb894680a11a48021b15d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '73e134443c75765bad8b1a786df8fbcd') in 0.017115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Sword.prefab
+  artifactKey: Guid(b116d663e63776b498d940fc62356957) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Sword.prefab using Guid(b116d663e63776b498d940fc62356957) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '71626f98174e6618fdc424aa20cdc579') in 0.032496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_13.prefab
+  artifactKey: Guid(36d90c33e9b776448a1f2dfc975ffda5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_13.prefab using Guid(36d90c33e9b776448a1f2dfc975ffda5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b07a7d000d462b27750d541cbdba96b7') in 0.033092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ground.prefab
+  artifactKey: Guid(0ed7946982320464596b995b61ecdf34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ground.prefab using Guid(0ed7946982320464596b995b61ecdf34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ab437cc946093f8067e2199b0a0fedad') in 0.033283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_17.prefab
+  artifactKey: Guid(56c471fa60a91ff47aad2dc54e7d196a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_17.prefab using Guid(56c471fa60a91ff47aad2dc54e7d196a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4e340a15168f595adf12dbbd4373807c') in 0.031176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Shield.prefab
+  artifactKey: Guid(75940785cec02894881375a52dcba655) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Shield.prefab using Guid(75940785cec02894881375a52dcba655) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'eb079cec1daad7e0610dc85c119d38bc') in 0.031397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Foliage.mat
+  artifactKey: Guid(aa2d461b65885d241821c6e73a2999ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Foliage.mat using Guid(aa2d461b65885d241821c6e73a2999ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0093b6db15852384c0a046e8a23b58e6') in 0.025798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_4.prefab
+  artifactKey: Guid(a9be5f8d69d77f346a425712248b814c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_4.prefab using Guid(a9be5f8d69d77f346a425712248b814c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bd9fac0cb9eb9f9a0dd34ba03a39ed84') in 0.030964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/MainScenseSettings.lighting
+  artifactKey: Guid(bf57216258c4d4845bf9158e6dc424a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/MainScenseSettings.lighting using Guid(bf57216258c4d4845bf9158e6dc424a2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) LightingSettings: switching bake backend from 1 to 0.
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c4e558e53d5df8923dc7e330cc517f22') in 0.037138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_2.mat
+  artifactKey: Guid(de5247fed8db2f34d80b9899592e522c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_2.mat using Guid(de5247fed8db2f34d80b9899592e522c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '438c93de973e9703ee5cbc04fe412ba7') in 0.039311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Health.prefab
+  artifactKey: Guid(fb1342e2566442642a1b0da9756b066e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Health.prefab using Guid(fb1342e2566442642a1b0da9756b066e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '40c66a32314599e4b98847eed9542524') in 0.046147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Mana.prefab
+  artifactKey: Guid(32ef5384bf03a5c459962867b76db0cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Mana.prefab using Guid(32ef5384bf03a5c459962867b76db0cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a2228c06491d110ca5c10cd3b95a03b3') in 0.071470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_3.prefab
+  artifactKey: Guid(b4572596b6a569946aedef79f222fa22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_3.prefab using Guid(b4572596b6a569946aedef79f222fa22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '07cfb14ae2990d8aad12093da38a24de') in 0.053274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_11.prefab
+  artifactKey: Guid(8b49696b2432a634e9f45dd8ad4aab80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_11.prefab using Guid(8b49696b2432a634e9f45dd8ad4aab80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '49731e0da2af6930b6e050fb5b775dfb') in 0.093407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000742 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_14.prefab
+  artifactKey: Guid(0e4460f2e6af8534883922004bca99b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_14.prefab using Guid(0e4460f2e6af8534883922004bca99b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '23beeeab4259f61cc4613f04424aa5bb') in 0.033158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Crown.prefab
+  artifactKey: Guid(60843c6f0abfe104f8c631aabae51301) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Crown.prefab using Guid(60843c6f0abfe104f8c631aabae51301) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f8566802d7924e11e299833b81cd43ca') in 0.031709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Closed.prefab
+  artifactKey: Guid(4d272402a09cecd42a5f9f5d73589fc7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Closed.prefab using Guid(4d272402a09cecd42a5f9f5d73589fc7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2f850ecbd71763b64d115cf86bb766f0') in 0.026040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_9.prefab
+  artifactKey: Guid(74bece5c87deaa946b1d5c129a3123af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_9.prefab using Guid(74bece5c87deaa946b1d5c129a3123af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '47065178b9b16eef9c67e0456478ec86') in 0.029189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_1.prefab
+  artifactKey: Guid(83561575068bf2042a4f289885d89d2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_1.prefab using Guid(83561575068bf2042a4f289885d89d2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a6a4090be9b107c80200551159dca380') in 0.017600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_3.mat
+  artifactKey: Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_3.mat using Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '698a8920644130f3aa367afe8176b824') in 0.016509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Foliage.mat
+  artifactKey: Guid(c0a9725ef6601304a82891ef2cadc876) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Foliage.mat using Guid(c0a9725ef6601304a82891ef2cadc876) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e67450aed5d150406a10a2af72efb1bc') in 0.015921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_1.prefab
+  artifactKey: Guid(2485624f732b618439e23cb8081d41dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_1.prefab using Guid(2485624f732b618439e23cb8081d41dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c52db3276de10428202d417a75054438') in 0.016306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_7.prefab
+  artifactKey: Guid(41746623d92e6994586a79f8ebd3681a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_7.prefab using Guid(41746623d92e6994586a79f8ebd3681a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c60a80e57a457147fb2a46401ad13e77') in 0.015780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/MainScense.unity
+  artifactKey: Guid(dc35b59e37ef8fc47b03f6434640ec99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/MainScense.unity using Guid(dc35b59e37ef8fc47b03f6434640ec99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '87d2afcc1f8682e9e3a6c16634bc29cd') in 0.009431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_12.prefab
+  artifactKey: Guid(e745df1298631f24789a1313146ae9a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_12.prefab using Guid(e745df1298631f24789a1313146ae9a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '81ac8acb618ca0c6c5ecb27d26c0e88c') in 0.018468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_1.prefab
+  artifactKey: Guid(9db57954271991a4f84773d7d31e291b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_1.prefab using Guid(9db57954271991a4f84773d7d31e291b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '92976dd77c6d9ac07c00692b295ff1be') in 0.015221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Emerald.mat
+  artifactKey: Guid(9d8103c4f549e304ebbc88c0779b2349) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Emerald.mat using Guid(9d8103c4f549e304ebbc88c0779b2349) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e1d430ef0d2832b8a3b5219042e9ccd7') in 0.012774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сoin.prefab
+  artifactKey: Guid(e3df14a44368b9c47a6175eebd31535d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сoin.prefab using Guid(e3df14a44368b9c47a6175eebd31535d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4d446e33483ac9bca8e7b35d2692c311') in 0.015021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_18.prefab
+  artifactKey: Guid(0308f8ff86e69154a8064da3ef456125) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_18.prefab using Guid(0308f8ff86e69154a8064da3ef456125) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '559769da9b4a6fafcdf697dc777884fe') in 0.014090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure
+  artifactKey: Guid(563bf3e553511ce4586761d21a516b9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure using Guid(563bf3e553511ce4586761d21a516b9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '846052ff0b862f6988c2f567d0342d24') in 0.009320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Ruby.mat
+  artifactKey: Guid(9e821f0f773f0114e9df5ba24a0abad5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Ruby.mat using Guid(9e821f0f773f0114e9df5ba24a0abad5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bb2720d0c8c83af31e70ee623f1ba200') in 0.013179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Bone.mat
+  artifactKey: Guid(1ea9f06a678176f4e8a48fed8bdefde5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Bone.mat using Guid(1ea9f06a678176f4e8a48fed8bdefde5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6f9eac19db0ceb2b25f08a11734545e6') in 0.012622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_4.prefab
+  artifactKey: Guid(e6911a57b4d95ba4f86e3e41e5a9fcac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_4.prefab using Guid(e6911a57b4d95ba4f86e3e41e5a9fcac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '96b3f72a30d797330fc589f0c679a2db') in 0.015095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_15.prefab
+  artifactKey: Guid(7e9e129d389d7b840aff77f25f41451c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_15.prefab using Guid(7e9e129d389d7b840aff77f25f41451c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ab646df9f97ecf91582723e9abc88147') in 0.013539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_8.prefab
+  artifactKey: Guid(06feddaacfebcc845a71837d24b4ed20) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_8.prefab using Guid(06feddaacfebcc845a71837d24b4ed20) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '94dcc86222f4aa86899f4e99d0b8b40a') in 0.016695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Mana.mat
+  artifactKey: Guid(cd77ea8e05fb8e34c8487a2b5ef72f81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Mana.mat using Guid(cd77ea8e05fb8e34c8487a2b5ef72f81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '31c0c901464872a148882521df50d33c') in 0.014372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials
+  artifactKey: Guid(94213bdc6373e9e4e95ee80cad976ffe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials using Guid(94213bdc6373e9e4e95ee80cad976ffe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '12245ba5f219d572ad7f71d639e94120') in 0.009651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs
+  artifactKey: Guid(db722b1ea2bfc084ea2c7a634b131557) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs using Guid(db722b1ea2bfc084ea2c7a634b131557) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f187331f8333de03841b54e2b8fa58f3') in 0.009709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure
+  artifactKey: Guid(563bf3e553511ce4586761d21a516b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure using Guid(563bf3e553511ce4586761d21a516b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807c0c07b61719b4ef481813cdf62246') in 0.008342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_2.prefab
+  artifactKey: Guid(54c295819cbc940479f443cf807656ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_2.prefab using Guid(54c295819cbc940479f443cf807656ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '295214bdf0a3bd17b8f245e757e9ee36') in 0.016339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Health.mat
+  artifactKey: Guid(d49ef640e39bfc34aba2155cb8a8f99c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Health.mat using Guid(d49ef640e39bfc34aba2155cb8a8f99c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7a45cc55ff1b58fc521cab870191357f') in 0.012177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_2.prefab
+  artifactKey: Guid(6e1def531c4baaf4387bc4283f7ef134) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_2.prefab using Guid(6e1def531c4baaf4387bc4283f7ef134) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1d6fc5dcd8bd429fe5721afd2e2a4001') in 0.014478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Stell.mat
+  artifactKey: Guid(581bcb63dc607ec4ebc2a6d2096dfc92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Stell.mat using Guid(581bcb63dc607ec4ebc2a6d2096dfc92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd3d5f78722f36d53f5e7c97c9e0d7dee') in 0.131365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Tree_Fir.prefab
+  artifactKey: Guid(d64bcd605f1bc084588c5a35592f7fc3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Tree_Fir.prefab using Guid(d64bcd605f1bc084588c5a35592f7fc3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3f3c55dbfe24f1422ac8e8a012ee4f39') in 0.032325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Open.prefab
+  artifactKey: Guid(2d561752e6200834db6fb19d8d3220b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Open.prefab using Guid(2d561752e6200834db6fb19d8d3220b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4b4f3570bc2748b2406f89a8290d2ff2') in 0.031419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_5.prefab
+  artifactKey: Guid(e06ba814345b0ec43aaaf6a5dac7e762) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_5.prefab using Guid(e06ba814345b0ec43aaaf6a5dac7e762) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ef5a2c20e1c485a34d19c538ef6ebb42') in 0.046192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Arrow.prefab
+  artifactKey: Guid(edf92e08fbab517449067fd9cddc8a66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Arrow.prefab using Guid(edf92e08fbab517449067fd9cddc8a66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '018b797a33884efc6e5525b7c01002e1') in 0.026920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open_Cap.prefab
+  artifactKey: Guid(7e7ac078c68820d4e8f9deec111d9d53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open_Cap.prefab using Guid(7e7ac078c68820d4e8f9deec111d9d53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '293638ba257fd55a434f6ad2fec8a5f6') in 0.029575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Stone.mat
+  artifactKey: Guid(5488c218fc681b748a54e10cdf1b2f8c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Stone.mat using Guid(5488c218fc681b748a54e10cdf1b2f8c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3c87e2305ba6351538b0051092f72b5c') in 0.029564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Closed.prefab
+  artifactKey: Guid(64284ca1518bc524492fa4fc9e82ce94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Closed.prefab using Guid(64284ca1518bc524492fa4fc9e82ce94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3512a309ceb7ee84a9944f107c3f4929') in 0.027396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Skull.prefab
+  artifactKey: Guid(331828e5d69fcf148a4fa6dadc2c2f41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Skull.prefab using Guid(331828e5d69fcf148a4fa6dadc2c2f41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dde90dc63b8af9136d67b776a0a6e4c1') in 0.028074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Emerald.prefab
+  artifactKey: Guid(2c9868bb7821e484083e774038674eb1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Emerald.prefab using Guid(2c9868bb7821e484083e774038674eb1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ae238877349271eed3538d29f31f8f5f') in 0.029799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open.prefab
+  artifactKey: Guid(33bf31b2b982a14499d546025065ad22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open.prefab using Guid(33bf31b2b982a14499d546025065ad22) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '97dad6200d5a86be61f869843d0ebb82') in 0.032036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_16.prefab
+  artifactKey: Guid(e992049e0e5f23b48ade8c906dc252c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_16.prefab using Guid(e992049e0e5f23b48ade8c906dc252c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '24d785fd24a11af6424822ad8e807fb8') in 0.031055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_1.mat
+  artifactKey: Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_1.mat using Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2b37e16e2a2d8b35948f6364a114d265') in 0.031533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX
+  artifactKey: Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX using Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1dea4c6280fd0d1ff201a53071d769f9') in 0.179283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bullion.prefab
+  artifactKey: Guid(71af532755e61c7439f07e35d89278f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bullion.prefab using Guid(71af532755e61c7439f07e35d89278f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd7e371bd3f21d681e7f269759ac4d698') in 0.026299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Pick.prefab
+  artifactKey: Guid(6191d242d97347540a6f4263049bdfed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Pick.prefab using Guid(6191d242d97347540a6f4263049bdfed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6f2b45050a562953744c943251184b05') in 0.029038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bone.prefab
+  artifactKey: Guid(11be0398bf08b574c839d66a800c6174) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bone.prefab using Guid(11be0398bf08b574c839d66a800c6174) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6cfdb269360179f20e5b6f6b47d19702') in 0.024638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_10.prefab
+  artifactKey: Guid(df00b95dd377f8f4fa6a75377aa47a42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_10.prefab using Guid(df00b95dd377f8f4fa6a75377aa47a42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bf1fdbbdf2fc3fc34bead4f087a32b9e') in 0.027419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Box.prefab
+  artifactKey: Guid(c3ac01a483bb3fd4fac43624af451255) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Box.prefab using Guid(c3ac01a483bb3fd4fac43624af451255) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '42f8b363d39b98a0506d8a39b4dbe1d7') in 0.026611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Wood.mat
+  artifactKey: Guid(ca1bc2fdd0017fc46ba22b6198dd83ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Wood.mat using Guid(ca1bc2fdd0017fc46ba22b6198dd83ed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7212e5d4b3a8be9e28225efebd7f2d67') in 0.026200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Key.prefab
+  artifactKey: Guid(5f19be0067756ea45bd6b780e9794b80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Key.prefab using Guid(5f19be0067756ea45bd6b780e9794b80) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6fb25a6e111e454c4a808e49670ca67c') in 0.026699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ruby.prefab
+  artifactKey: Guid(20df3b3bdddb94f47b7d2e59e491ff51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ruby.prefab using Guid(20df3b3bdddb94f47b7d2e59e491ff51) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8d87d5bcc81527c24481a287ebb58bc0') in 0.029731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs
+  artifactKey: Guid(db722b1ea2bfc084ea2c7a634b131557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs using Guid(db722b1ea2bfc084ea2c7a634b131557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2020d87327561b15ac3fac144dd2d98') in 0.007025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Gold.mat
+  artifactKey: Guid(08383afdf5e4c7f4aa3b1158056238b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Gold.mat using Guid(08383afdf5e4c7f4aa3b1158056238b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1c9eb7748c2e473ce350a127598f1a2a') in 0.019871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_2.prefab
+  artifactKey: Guid(97291d2df068db2439009ca97285ddff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_2.prefab using Guid(97291d2df068db2439009ca97285ddff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4ddbff5165258ed0e432b68f3586c309') in 0.031970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_6.prefab
+  artifactKey: Guid(dbaf68191bab69546985647875561946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_6.prefab using Guid(dbaf68191bab69546985647875561946) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f4ea1f688e4ae17a7438886b01a31224') in 0.026092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Shield.prefab
+  artifactKey: Guid(75940785cec02894881375a52dcba655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Shield.prefab using Guid(75940785cec02894881375a52dcba655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dcec7361a89eaa3c785920acfb0b2a5') in 0.248597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_6.prefab
+  artifactKey: Guid(dbaf68191bab69546985647875561946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_6.prefab using Guid(dbaf68191bab69546985647875561946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5e6f391c384fc40df9ccfdd70a4bc5') in 0.036202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_14.prefab
+  artifactKey: Guid(0e4460f2e6af8534883922004bca99b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_14.prefab using Guid(0e4460f2e6af8534883922004bca99b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c1ecd547ebe1ee6f89812cbb6e9c1b') in 0.038503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_12.prefab
+  artifactKey: Guid(e745df1298631f24789a1313146ae9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_12.prefab using Guid(e745df1298631f24789a1313146ae9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30b6064f125ec0263ce221e8869d6de') in 0.046735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open_Cap.prefab
+  artifactKey: Guid(7e7ac078c68820d4e8f9deec111d9d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open_Cap.prefab using Guid(7e7ac078c68820d4e8f9deec111d9d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c74f5f468838932b272356c45912b9') in 0.051072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_5.prefab
+  artifactKey: Guid(e06ba814345b0ec43aaaf6a5dac7e762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_5.prefab using Guid(e06ba814345b0ec43aaaf6a5dac7e762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7937e288311282262ecc2aed733b01ec') in 0.039027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Mana.prefab
+  artifactKey: Guid(32ef5384bf03a5c459962867b76db0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Mana.prefab using Guid(32ef5384bf03a5c459962867b76db0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e26ebfb2787c6ca4db3c4e4ef04c42c') in 0.037566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Tree_Fir.prefab
+  artifactKey: Guid(d64bcd605f1bc084588c5a35592f7fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Tree_Fir.prefab using Guid(d64bcd605f1bc084588c5a35592f7fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0735418aa087e798b8fb3b579d14f7') in 0.035201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Pick.prefab
+  artifactKey: Guid(6191d242d97347540a6f4263049bdfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Pick.prefab using Guid(6191d242d97347540a6f4263049bdfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db12298241b27dc181c144ddc8b4d12') in 0.116425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Emerald.prefab
+  artifactKey: Guid(2c9868bb7821e484083e774038674eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Emerald.prefab using Guid(2c9868bb7821e484083e774038674eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd40ecf7c38cac5abbbe6f913a82a68') in 0.059382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_1.prefab
+  artifactKey: Guid(83561575068bf2042a4f289885d89d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_1.prefab using Guid(83561575068bf2042a4f289885d89d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd555a8108ce6351fa1c167963e1a8d9') in 0.045443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сoin.prefab
+  artifactKey: Guid(e3df14a44368b9c47a6175eebd31535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сoin.prefab using Guid(e3df14a44368b9c47a6175eebd31535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087b78f995a1b3ad8c92602ef2ea1d2a') in 0.045095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_1.prefab
+  artifactKey: Guid(9db57954271991a4f84773d7d31e291b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_1.prefab using Guid(9db57954271991a4f84773d7d31e291b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec32cc5f06c28c1ca38223e15fb1faf') in 0.047351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_1.prefab
+  artifactKey: Guid(2485624f732b618439e23cb8081d41dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_1.prefab using Guid(2485624f732b618439e23cb8081d41dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c6271e2decca643933b1ec15e3fb6c') in 0.043654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Closed.prefab
+  artifactKey: Guid(64284ca1518bc524492fa4fc9e82ce94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Closed.prefab using Guid(64284ca1518bc524492fa4fc9e82ce94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3c5d1f1de6a8d8e27057eff1bdf1b13') in 0.041305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Health.prefab
+  artifactKey: Guid(fb1342e2566442642a1b0da9756b066e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Elixir_Of_Health.prefab using Guid(fb1342e2566442642a1b0da9756b066e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a343f2298a7fe8f5972207779d087b') in 0.056367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Box.prefab
+  artifactKey: Guid(c3ac01a483bb3fd4fac43624af451255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Box.prefab using Guid(c3ac01a483bb3fd4fac43624af451255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b43efde21dfb4a36962b852f9643fd1') in 0.063006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_2.prefab
+  artifactKey: Guid(97291d2df068db2439009ca97285ddff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Rocks_and_grass_2.prefab using Guid(97291d2df068db2439009ca97285ddff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ff6e8d438a7300642cdf8bc52b3bf5') in 0.074692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_9.prefab
+  artifactKey: Guid(74bece5c87deaa946b1d5c129a3123af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_9.prefab using Guid(74bece5c87deaa946b1d5c129a3123af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee32f9612e7524413f4d8a441e2f5cbf') in 0.096252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_18.prefab
+  artifactKey: Guid(0308f8ff86e69154a8064da3ef456125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_18.prefab using Guid(0308f8ff86e69154a8064da3ef456125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20a149d4c727efe9a07f32a47301dde') in 0.036517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_7.prefab
+  artifactKey: Guid(41746623d92e6994586a79f8ebd3681a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_7.prefab using Guid(41746623d92e6994586a79f8ebd3681a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67118576f6f48626203fee6492a8933') in 0.037445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_3.prefab
+  artifactKey: Guid(fca867e93da64f84c8cc00bde5b816f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_3.prefab using Guid(fca867e93da64f84c8cc00bde5b816f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8725582fe2b1547a17ec62ba7ef0c7d0') in 0.031154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Key.prefab
+  artifactKey: Guid(5f19be0067756ea45bd6b780e9794b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Key.prefab using Guid(5f19be0067756ea45bd6b780e9794b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada1294a75558669b85d2175b998b46d') in 0.041780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_10.prefab
+  artifactKey: Guid(df00b95dd377f8f4fa6a75377aa47a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_10.prefab using Guid(df00b95dd377f8f4fa6a75377aa47a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3858e450c155a4514df0579552c7a4a8') in 0.040582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Sword.prefab
+  artifactKey: Guid(b116d663e63776b498d940fc62356957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Sword.prefab using Guid(b116d663e63776b498d940fc62356957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c525353b88510663c84fdcd7bf09c4') in 0.052614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_11.prefab
+  artifactKey: Guid(8b49696b2432a634e9f45dd8ad4aab80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_11.prefab using Guid(8b49696b2432a634e9f45dd8ad4aab80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4de129e108f26603cb01d9b5b7df348') in 0.043847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ground.prefab
+  artifactKey: Guid(0ed7946982320464596b995b61ecdf34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ground.prefab using Guid(0ed7946982320464596b995b61ecdf34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0e767196a6a28ee977580c88420f91') in 0.044920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ruby.prefab
+  artifactKey: Guid(20df3b3bdddb94f47b7d2e59e491ff51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Ruby.prefab using Guid(20df3b3bdddb94f47b7d2e59e491ff51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ea9c5ed6d3f1041caafbca228904f8') in 0.043289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bullion.prefab
+  artifactKey: Guid(71af532755e61c7439f07e35d89278f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bullion.prefab using Guid(71af532755e61c7439f07e35d89278f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84d059236e082b4e19a4025999b8df1') in 0.033315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open.prefab
+  artifactKey: Guid(33bf31b2b982a14499d546025065ad22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Chest_Open.prefab using Guid(33bf31b2b982a14499d546025065ad22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '064356dc0af8f69c17d788fa091aabc2') in 0.044840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_3.prefab
+  artifactKey: Guid(fca867e93da64f84c8cc00bde5b816f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_3.prefab using Guid(fca867e93da64f84c8cc00bde5b816f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11cbea33c401a2a0074a12e1715dd25') in 0.045577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_4.prefab
+  artifactKey: Guid(e6911a57b4d95ba4f86e3e41e5a9fcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_4.prefab using Guid(e6911a57b4d95ba4f86e3e41e5a9fcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af8221a6ae07eb705a0a18cde84ba12') in 0.047125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_13.prefab
+  artifactKey: Guid(36d90c33e9b776448a1f2dfc975ffda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_13.prefab using Guid(36d90c33e9b776448a1f2dfc975ffda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02611e7e368940fffb5ca13062905708') in 0.055821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_15.prefab
+  artifactKey: Guid(7e9e129d389d7b840aff77f25f41451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_15.prefab using Guid(7e9e129d389d7b840aff77f25f41451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85713cbba6e483e25cc0f1dcdf86514d') in 0.046262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_17.prefab
+  artifactKey: Guid(56c471fa60a91ff47aad2dc54e7d196a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_17.prefab using Guid(56c471fa60a91ff47aad2dc54e7d196a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fecae944c657648d816f60e26115248c') in 0.037882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Arrow.prefab
+  artifactKey: Guid(edf92e08fbab517449067fd9cddc8a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Arrow.prefab using Guid(edf92e08fbab517449067fd9cddc8a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2b95a930e389ea4eeb204d92a30170') in 0.035208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_3.prefab
+  artifactKey: Guid(b4572596b6a569946aedef79f222fa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_3.prefab using Guid(b4572596b6a569946aedef79f222fa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5bbe520a70516d8c309f3bd6d628606') in 0.043479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bone.prefab
+  artifactKey: Guid(11be0398bf08b574c839d66a800c6174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Bone.prefab using Guid(11be0398bf08b574c839d66a800c6174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90ff584368be43e7ced9db9e170fa7a') in 0.045040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Skull.prefab
+  artifactKey: Guid(331828e5d69fcf148a4fa6dadc2c2f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Skull.prefab using Guid(331828e5d69fcf148a4fa6dadc2c2f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5300ec90fc2e4f345054665a9889c0dc') in 0.048144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_2.prefab
+  artifactKey: Guid(6e1def531c4baaf4387bc4283f7ef134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_2.prefab using Guid(6e1def531c4baaf4387bc4283f7ef134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a29dd27c2abc27aa8bf2e5551b10fb1') in 0.037900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Open.prefab
+  artifactKey: Guid(2d561752e6200834db6fb19d8d3220b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Open.prefab using Guid(2d561752e6200834db6fb19d8d3220b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a97e8b21f515780b0d6921d16dab5d') in 0.066077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_8.prefab
+  artifactKey: Guid(06feddaacfebcc845a71837d24b4ed20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_8.prefab using Guid(06feddaacfebcc845a71837d24b4ed20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b1b9c869cdcfa65dff019441191561') in 0.048744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Closed.prefab
+  artifactKey: Guid(4d272402a09cecd42a5f9f5d73589fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Barrel_Closed.prefab using Guid(4d272402a09cecd42a5f9f5d73589fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c5618a7240f49b2d7a89eeb205c7bf') in 0.038294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Crown.prefab
+  artifactKey: Guid(60843c6f0abfe104f8c631aabae51301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Crown.prefab using Guid(60843c6f0abfe104f8c631aabae51301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd964c4c6c1cf43b27225973a85478f01') in 0.038742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_16.prefab
+  artifactKey: Guid(e992049e0e5f23b48ade8c906dc252c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_16.prefab using Guid(e992049e0e5f23b48ade8c906dc252c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f25e037ecae1b592ba55ffa42dfd068') in 0.036696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_4.prefab
+  artifactKey: Guid(a9be5f8d69d77f346a425712248b814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Stone_4.prefab using Guid(a9be5f8d69d77f346a425712248b814c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1ab7ce58ec4e95bfe517a2e5317d6c') in 0.037561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Ground.mat
+  artifactKey: Guid(aab3062433dfe3244b122685a77f1c69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Ground.mat using Guid(aab3062433dfe3244b122685a77f1c69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b6ebf5ca98e52996ccbc4e87db6ce4ec') in 0.022196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_2.prefab
+  artifactKey: Guid(54c295819cbc940479f443cf807656ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Prefabs/Сrystal_2.prefab using Guid(54c295819cbc940479f443cf807656ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f74a79ee30f41c7b776a4e8fed14e9') in 0.037180 seconds 

@@ -1,0 +1,345 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.5f1 (40eb3a945986) revision 4254522'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit CoreSingleLanguage' Language: 'ru' Physical Memory: 6053 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\game\Unity 2021.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Cybermart/Desktop/дима кузя/sad(
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51330
+Successfully changed project path to: C:/Users/Cybermart/Desktop/дима кузя/sad(
+C:/Users/Cybermart/Desktop/дима кузя/sad(
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 127.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.5f1 (40eb3a945986)
+[Subsystems] Discovering subsystems at path D:/game/Unity 2021.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Cybermart/Desktop/дима кузя/sad(/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX110 (ID=0x174e)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'D:/game/Unity 2021.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'D:/game/Unity 2021.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/game/Unity 2021.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/game/Unity 2021.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007213 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 130.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.035 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1036ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (728ms)
+			LoadAssemblies (111ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (193ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (407ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (130ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (188ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009198 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cybermart\Desktop\дима кузя\sad(\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Cybermart\Desktop\дима кузя\sad(\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.785 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1786ms)
+		BeginReloadAssembly (157ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1457ms)
+			LoadAssemblies (227ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (421ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (552ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (131ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (110.9 KB). Loaded Objects now: 3824.
+Memory consumption went from 115.8 MB to 115.7 MB.
+Total: 5.845700 ms (FindLiveObjects: 0.493500 ms CreateObjectMapping: 0.409900 ms MarkObjects: 4.755500 ms  DeleteObjects: 0.185200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1475017.933400 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Gold.mat
+  artifactKey: Guid(08383afdf5e4c7f4aa3b1158056238b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Gold.mat using Guid(08383afdf5e4c7f4aa3b1158056238b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfb67d10af746b2cd77f2bacc5cfe1a') in 0.318253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_3.mat
+  artifactKey: Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_3.mat using Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa281de2492fed5a8c258d9f2d679b6') in 0.026594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/ClusteredRock_2.fbx
+  artifactKey: Guid(f7d17e9da3e0f4249a18b715b5d1150e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/ClusteredRock_2.fbx using Guid(f7d17e9da3e0f4249a18b715b5d1150e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2436f5f0537a863cd9f24a36a80343') in 0.202543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Grass_1.fbx
+  artifactKey: Guid(24ad6abd340c2554c8243734e4f04100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Grass_1.fbx using Guid(24ad6abd340c2554c8243734e4f04100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1106ff9afa3484da8f6b71514c8ac39e') in 0.031414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Pine_3.fbx
+  artifactKey: Guid(0043ff6fbd2f3e34291d76b4b642b24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Pine_3.fbx using Guid(0043ff6fbd2f3e34291d76b4b642b24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16cfc2f5cf1417e1cbc4e99c07ee1b00') in 0.035700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flower_1.fbx
+  artifactKey: Guid(8e22b09183d115b45b12741f524a8ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flower_1.fbx using Guid(8e22b09183d115b45b12741f524a8ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2d605bfcf92d27042ee47b43d594b8') in 0.038995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX
+  artifactKey: Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX using Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd5195c04a561626065c9c5c4ecf919b') in 0.726631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/BirchTree_3.fbx
+  artifactKey: Guid(aa6c98d19e218414f94fe9183e3f9c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/BirchTree_3.fbx using Guid(aa6c98d19e218414f94fe9183e3f9c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52013e917ef8f1303eb43a04c969933') in 0.030369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/White.mat
+  artifactKey: Guid(342c475ac06179249a7cb8facac92609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/White.mat using Guid(342c475ac06179249a7cb8facac92609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30516f593ce548e4690676488e1cb420') in 0.026722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Bone.mat
+  artifactKey: Guid(1ea9f06a678176f4e8a48fed8bdefde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Bone.mat using Guid(1ea9f06a678176f4e8a48fed8bdefde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595dd237e53597e6241c3dd96447da7a') in 0.018412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Red.mat
+  artifactKey: Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Red.mat using Guid(c8835c14c4c68b1499f01f29fc4bc1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7a21856a77ed1e6e52451df243c11b') in 0.022447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Rock.mat
+  artifactKey: Guid(9b6efa035ff72054f8d3b892947352ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Rock.mat using Guid(9b6efa035ff72054f8d3b892947352ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a271bb19ed2f8834a6c0cf908ab15e') in 0.023623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Black.mat
+  artifactKey: Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Black.mat using Guid(545d84d0366f1f947a08ba23cfe28d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12fff613fb46b06318e31fef75e74445') in 0.022333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Health.mat
+  artifactKey: Guid(d49ef640e39bfc34aba2155cb8a8f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Health.mat using Guid(d49ef640e39bfc34aba2155cb8a8f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c656485778f303d3bfe93a715b51d7ec') in 0.015596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Mana.mat
+  artifactKey: Guid(cd77ea8e05fb8e34c8487a2b5ef72f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Flask_Mana.mat using Guid(cd77ea8e05fb8e34c8487a2b5ef72f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3478f7c8f42fbc6329aebde8296472') in 0.016339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Wood.mat
+  artifactKey: Guid(ca1bc2fdd0017fc46ba22b6198dd83ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Wood.mat using Guid(ca1bc2fdd0017fc46ba22b6198dd83ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c35202d80e5a49be2435dea38c4ba33') in 0.031037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Ruby.mat
+  artifactKey: Guid(9e821f0f773f0114e9df5ba24a0abad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Ruby.mat using Guid(9e821f0f773f0114e9df5ba24a0abad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d99538c2212254c723fc4b7f090e33c') in 0.032523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_2.mat
+  artifactKey: Guid(de5247fed8db2f34d80b9899592e522c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_2.mat using Guid(de5247fed8db2f34d80b9899592e522c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901cc43991a28cdaaeaf5831ba59ca8d') in 0.026530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Stell.mat
+  artifactKey: Guid(581bcb63dc607ec4ebc2a6d2096dfc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Stell.mat using Guid(581bcb63dc607ec4ebc2a6d2096dfc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52955571cfbf6966d2c193d1d699b34d') in 0.027179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Stone.mat
+  artifactKey: Guid(5488c218fc681b748a54e10cdf1b2f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Stone.mat using Guid(5488c218fc681b748a54e10cdf1b2f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05273ce120a29dcb59a1426485f5067d') in 0.022411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Bark.mat
+  artifactKey: Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Bark.mat using Guid(26fe9a24ecc20ab49a406f93f2c004dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd604c2eb98fec940c9e9dc8eb57ab4d6') in 0.029476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Foliage.mat
+  artifactKey: Guid(aa2d461b65885d241821c6e73a2999ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Tree_Fir_Foliage.mat using Guid(aa2d461b65885d241821c6e73a2999ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42e06f9b9ec104869eb67f3c8c1da9e') in 0.024048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Ground.mat
+  artifactKey: Guid(aab3062433dfe3244b122685a77f1c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Ground.mat using Guid(aab3062433dfe3244b122685a77f1c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e511246a478ef3b296516613571c8589') in 0.022102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Leaves1.mat
+  artifactKey: Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Leaves1.mat using Guid(bc428d0a275744b4c9912c20b9e0e216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5753a59774b96ff6b83e523376ae2cf') in 0.030923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat
+  artifactKey: Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/AutumnLeaves1.mat using Guid(e6f661b9d21d2844481da7d6f63a6834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb303f85adf82deec4268a4aee5a2ac0') in 0.030276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flat_Ground.fbx
+  artifactKey: Guid(4095df895a6728e4e890de1f4f597865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Flat_Ground.fbx using Guid(4095df895a6728e4e890de1f4f597865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeefed25410802f4efbc1755ece49d1d') in 0.034964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Bush_2.fbx
+  artifactKey: Guid(43fbea8be83c3e5429b2f1aa27a01b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Meshes/Bush_2.fbx using Guid(43fbea8be83c3e5429b2f1aa27a01b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6ec0f4073d4784b4deb16ba3a3172e') in 0.035775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Dirt.mat
+  artifactKey: Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Sample- Low Poly Nature Assets/Materials/Dirt.mat using Guid(4bcf71fe0061cb74c9b6921b7f891a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be44e4743d3914ccf6428fb6ac2ff52') in 0.031104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Emerald.mat
+  artifactKey: Guid(9d8103c4f549e304ebbc88c0779b2349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Emerald.mat using Guid(9d8103c4f549e304ebbc88c0779b2349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab84fc3d761f44a407db0eedd3e837db') in 0.022683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_1.mat
+  artifactKey: Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Wood_1.mat using Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6296bde7366bb7477abbe0265102941b') in 0.026918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Thirparty/Stones_and_buried_treasure/Materials/Foliage.mat
+  artifactKey: Guid(c0a9725ef6601304a82891ef2cadc876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Thirparty/Stones_and_buried_treasure/Materials/Foliage.mat using Guid(c0a9725ef6601304a82891ef2cadc876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a24a01c6a423c734b06327172f05cf6') in 0.024014 seconds 
